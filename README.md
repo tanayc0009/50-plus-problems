@@ -1,1 +1,1 @@
-# 50-problems-of-programming
+50+ problem of programming
